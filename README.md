@@ -1,4 +1,4 @@
-# Hi, I'm Drake 👋
+# Hi, I'm Drake
 
 Solo developer building serious consumer software with AI agents.
 
